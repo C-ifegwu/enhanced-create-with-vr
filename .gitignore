@@ -34,3 +34,21 @@ sysinfo.txt
 crashlytics-build.properties
 .DS_Store
 Thumbs.db
+
+# Local helper output
+dump_*.txt
+upgrade_shaders.txt
+Assets/Scripts_placeholder.txt*
+
+PlayTestResults.txt
+PlayTestResults2.txt
+PlayTestResults3.txt
+TeleportFix.txt
+NavCheck.txt
+PlayTestResults4.txt
+CourseNavButton.txt
+QuestCaptures/
+
+# Build and tool output
+*BurstDebugInformation_DoNotShip/
+.utmp/
